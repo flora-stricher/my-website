@@ -1,0 +1,10 @@
+.banner {
+	background-image: url(../../images/pumba2.jpg);
+	background-size: cover; 
+	background-repeat: no-repeat;
+	background-color: #8DA7BE;
+	width: 100%;
+	padding: 150px 0px; 
+	filter: grayscale(40%);
+
+}

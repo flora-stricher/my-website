@@ -1,0 +1,72 @@
+
+@import url(href="https://fonts.googleapis.com/css?family=Alegreya+Sans|Exo&display=swap" rel="stylesheet">);
+
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+
+body{
+	text-align: center;
+	font-family: 'Alegreya Sans', sans-serif;
+	font-size: 18px;
+	background-color: #7798AB;
+
+}
+
+h1{
+	letter-spacing: 1px;
+	font-size: 32px;
+	color:solid black ;
+	font-weight: bold;
+	color: white;
+	margin-top: 10px;
+}
+
+h1,h2{
+	font-family: 'Exo', sans-serif;
+	text-align: center;
+}
+
+h2{
+	font-size: 20px;
+	padding: 10px;
+}
+h3{
+	color: white;
+}
+
+a{
+	text-decoration: none;
+	color: #78A1BB;
+}
+
+.card-white{
+  	box-shadow: 0px 10px 10px 5px rgba(0, 0, 104, .2);
+	width: 400px;
+	background-color: white;
+	padding: 30px;
+	border:1px blue;
+	margin: 10px;
+	border-radius:5px;
+	display: inline-flex;
+	flex-basis: 200px;
+	flex-wrap: wrap;
+	text-align: left;	}
+
+
+
+#intro{
+	text-align: justify;
+	width: 400px;
+	text-shadow:0px 0px 9px #777;
+	color:white;
+	margin-left:65%;
+	width:40%;
+	position:relative;
+	}
+
+img{
+	position: relative;
+
+}
